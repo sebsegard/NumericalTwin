@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitTestControl", "RevitTestControl\RevitTestControl.csproj", "{ACFAA4C8-4288-4EB1-8B1B-290ED81F9EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApi", "TestApi\TestApi.csproj", "{529EE94C-0ECE-4731-800E-A50C64F38614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACFAA4C8-4288-4EB1-8B1B-290ED81F9EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACFAA4C8-4288-4EB1-8B1B-290ED81F9EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACFAA4C8-4288-4EB1-8B1B-290ED81F9EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACFAA4C8-4288-4EB1-8B1B-290ED81F9EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529EE94C-0ECE-4731-800E-A50C64F38614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529EE94C-0ECE-4731-800E-A50C64F38614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529EE94C-0ECE-4731-800E-A50C64F38614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529EE94C-0ECE-4731-800E-A50C64F38614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
