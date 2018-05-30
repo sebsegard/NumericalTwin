@@ -1,0 +1,7 @@
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\bin\Debug\SmartUdpClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\bin\Debug\SmartUdpClient.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\bin\Debug\SmartUdpCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\bin\Debug\SmartUdpCom.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\obj\Debug\SmartUdpClient.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\obj\Debug\SmartUdpClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartUdpClient\obj\Debug\SmartUdpClient.pdb

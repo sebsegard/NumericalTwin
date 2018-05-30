@@ -1,0 +1,9 @@
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\SmartLinkClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\SmartLinkClient.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\SmartLinkCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\NamedPipeWrapper.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\SmartLinkCom.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\bin\Debug\NamedPipeWrapper.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\obj\Debug\SmartLinkClient.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\obj\Debug\SmartLinkClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\SmartLinkClient\obj\Debug\SmartLinkClient.pdb

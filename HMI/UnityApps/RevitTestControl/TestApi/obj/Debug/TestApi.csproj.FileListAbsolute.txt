@@ -1,0 +1,66 @@
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\TestApi.exe.config
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\configuration.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\Connect.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\IconAmpoule.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\Information.png
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\LightOff.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\LightOn.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\Temp.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\window.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\RevitTestControl.addin
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\TestApi.exe
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\TestApi.pdb
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\RevitTestControl.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\MySql.Data.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\AdWindows.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\RevitTestControl.pdb
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.Form1.resources
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.Properties.Resources.resources
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.csproj.GenerateResource.Cache
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.exe
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\TestApi\obj\Debug\TestApi.pdb
+C:\Users\ssegard\Documents\Visual Studio 2015\Projects\RevitTestControl\TestApi\bin\Debug\Resources\energy.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\configuration.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\Connect.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\energy.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\IconAmpoule.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\Information.png
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\LightOff.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\LightOn.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\Temp.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\Resources\window.ico
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\TestApi.exe.config
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\TestApi.exe
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\TestApi.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartLinkClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\UnityApps.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartLinkCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\NamedPipeWrapper.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\UnityApps.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartLinkClient.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartLinkCom.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\NamedPipeWrapper.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.Form1.resources
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.Properties.Resources.resources
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.csproj.GenerateResource.Cache
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.exe
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\obj\Debug\TestApi.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartUdpClient.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartUdpCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartUdpClient.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\RevitTestControl\TestApi\bin\Debug\SmartUdpCom.pdb

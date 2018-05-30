@@ -1,0 +1,1 @@
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartBuildingUnityApps\obj\Debug\SmartBuildingUnityApps.csprojResolveAssemblyReference.cache

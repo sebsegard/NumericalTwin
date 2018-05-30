@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>SampleApplication</Name>
+    <Assembly>RevitTestControl/RevitTestControl.dll</Assembly>
+    <AddInId>604b1052-f742-4951-8576-c261d1993109</AddInId>
+    <FullClassName>RevitTestControl.App</FullClassName>
+    <VendorId>CESI - SSD</VendorId>
+    <VendorDescription>The Best Ever</VendorDescription>
+  </AddIn>
+    <AddIn Type="Command">
+      <Assembly>RevitTestControl/RevitTestControl.dll</Assembly>
+      <AddInId>604b1052-f742-4951-8576-c261d1993110</AddInId>
+      <FullClassName>RevitTestControl.Fenetres.Windows</FullClassName>
+      <Text>Test</Text>
+      <VendorId>CESI - SSD</VendorId>
+      <VendorDescription>The Best Ever</VendorDescription>
+      <VisibilityMode>NotVisibleInProject</VisibilityMode>
+      <LongDescription>
+        This is the long description for my command.
+        This is another descriptive paragraph, with notes about how to use the command properly.
+      </LongDescription>
+    </AddIn>
+  </RevitAddIns>

@@ -1,0 +1,7 @@
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\bin\Debug\SmartLinkCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\bin\Debug\SmartLinkCom.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\bin\Debug\NamedPipeWrapper.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\bin\Debug\NamedPipeWrapper.pdb
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\obj\Debug\SmartLinkCom.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\obj\Debug\SmartLinkCom.dll
+C:\Users\ssegard\Documents\GitHub\NumericalTwin\HMI\UnityApps\SmartLinkCom\obj\Debug\SmartLinkCom.pdb

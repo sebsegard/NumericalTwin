@@ -1,0 +1,40 @@
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\RevitTestControl.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\RevitTestControl.pdb
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.pdb
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.Form1.resources
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.csproj.GenerateResource.Cache
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\AdWindows.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\cs-CZ\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\de-DE\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\en-US\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\es-ES\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\fr-FR\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\it-IT\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\ja-JP\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\ko-KR\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\pl-PL\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\pt-BR\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\ru-RU\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\zh-CN\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\zh-TW\AdWindows.resources.dll
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\Resources\IconAmpoule.ico
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\bin\Debug\RevitTestControl.addin
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\IconAmpoule.ico
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\RevitTestControl.addin
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\RevitTestControl.dll
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\RevitTestControl.pdb
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.Properties.Resources.resources
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\LightOff.ico
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\LightOn.ico
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\Connect.ico
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\Information.png
+c:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\configuration.ico
+c:\users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.LightControl.ConfigurationForm.resources
+C:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\Temp.ico
+C:\Users\ssegard\Documents\Visual Studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.Temperatures.TemperatureForm.resources
+C:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\window.ico
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.Fenetres.WindowForm.resources
+C:\Users\ssegard\documents\visual studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.csprojResolveAssemblyReference.cache
+C:\Users\ssegard\Documents\Visual Studio 2015\Projects\RevitTestControl\RevitTestControl\obj\Debug\RevitTestControl.LightControl.LightEnergyForm.resources
+C:\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\Resources\energy.ico
