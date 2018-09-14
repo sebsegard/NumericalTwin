@@ -16,7 +16,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\..\..\..\..\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\</OutputPath>
+    <OutputPath>..\..\..\..\..\..\..\..\..\ProgramData\Autodesk\Revit\Addins\2017\RevitTestControl\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -31,16 +31,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AdWindows">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\AdWindows.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\AdWindows.dll</HintPath>
     </Reference>
     <Reference Include="MySql.Data, Version=6.1.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="PresentationCore" />
     <Reference Include="RevitAPI">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="RevitAPIUI">
-      <HintPath>..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPIUI.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files\Autodesk\Revit 2017\RevitAPIUI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -59,6 +59,20 @@
   <ItemGroup>
     <Compile Include="App.cs" />
     <Compile Include="Connection\Connection.cs" />
+    <Compile Include="CVC\Clim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CVC\Clim.Designer.cs">
+      <DependentUpon>Clim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CVC\CVCForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CVC\CVCForm.Designer.cs">
+      <DependentUpon>CVCForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CVC\CC.cs" />
+    <Compile Include="CVC\VMC.cs" />
     <Compile Include="Fenetres\WindowForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,6 +126,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="CVC\Clim.resx">
+      <DependentUpon>Clim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CVC\CVCForm.resx">
+      <DependentUpon>CVCForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Fenetres\WindowForm.resx">
       <DependentUpon>WindowForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -133,6 +153,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\cc.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\configuration.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -154,7 +177,12 @@
     <Content Include="Resources\LightOn.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Resources\Sans titre.jpg" />
     <Content Include="Resources\Temp.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\vmc.jpg" />
+    <Content Include="Resources\vmc.ico">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\window.ico">

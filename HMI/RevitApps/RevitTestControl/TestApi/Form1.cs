@@ -30,5 +30,17 @@ namespace TestApi
             frm.Connect();
             frm.Show();
         }
+
+        private void btn_Vmc_Click(object sender, EventArgs e)
+        {
+            RevitTestControl.CVC.CVCForm frm = new RevitTestControl.CVC.CVCForm();
+            frm.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            RevitTestControl.CVC.Clim frm = new RevitTestControl.CVC.Clim();
+            frm.Show();
+        }
     }
 }

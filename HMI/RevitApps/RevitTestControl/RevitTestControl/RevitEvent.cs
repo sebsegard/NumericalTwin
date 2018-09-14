@@ -50,7 +50,6 @@ namespace RevitTestControl
         public void Execute(UIApplication app)
         {
             Fenetres.InWindows.Animate(app);
-
         }
 
         public string GetName()

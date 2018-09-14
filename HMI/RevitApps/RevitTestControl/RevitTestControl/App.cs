@@ -173,6 +173,32 @@ namespace RevitTestControl
             Button.LargeImage = pbImage;
 
 
+            // Add a new ribbon panel for GTB
+            ribbonPanel = application.CreateRibbonPanel(tabName, "GTB");
+
+            bData = new PushButtonData(
+            "TempGtb",
+            "VMC",
+            thisAssemblyPath,
+            "RevitTestControl.CVC.VMC");
+
+            Button = ribbonPanel.AddItem(bData) as PushButton;
+            Button.ToolTip = "View  VMC data";
+            pbImage = new BitmapImage(new Uri(thisAssemblyDir + "/Resources/vmc.ico"));
+            Button.LargeImage = pbImage;
+
+
+            bData = new PushButtonData(
+            "TempCC",
+            "Chauffage climatisation",
+            thisAssemblyPath,
+            "RevitTestControl.CVC.CC");
+
+            Button = ribbonPanel.AddItem(bData) as PushButton;
+            Button.ToolTip = "Chauffage climatisation";
+            pbImage = new BitmapImage(new Uri(thisAssemblyDir + "/Resources/cc.ico"));
+            Button.LargeImage = pbImage;
+
             // Add a new ribbon panel
             ribbonPanel = application.CreateRibbonPanel(tabName, "Information");
             

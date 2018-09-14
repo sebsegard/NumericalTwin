@@ -104,7 +104,7 @@ class ReadPointListThread(Thread):
 #
 
 @bacpypes_debugging
-class ThreadSupervisor(Thread):
+class ReadThreadSupervisor(Thread):
 
     def __init__(self, read_thread):
         if _debug: ThreadSupervisor._debug("__init__ ...")
@@ -164,7 +164,7 @@ def ReadValues(PointList):
     read_thread = ReadPointListThread(this_ServerAdress, PointList)
    
     # create a thread supervisor
-    thread_supervisor = ThreadSupervisor(read_thread)
+    thread_supervisor = ReadThreadSupervisor(read_thread)
 
     # start it running when the core is running
     deferred(thread_supervisor.start)

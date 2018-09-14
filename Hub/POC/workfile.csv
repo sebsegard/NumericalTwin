@@ -1,0 +1,1418 @@
+COILS
+1, coils,False 
+2, coils,False 
+3, coils,False 
+4, coils,False 
+5, coils,True 
+6, coils,True 
+7, coils,False 
+8, coils,False 
+9, coils,False 
+10, coils,False 
+10, 
+20, 
+30, 
+40, 
+50, 
+60, 
+70, 
+80, 
+90, 
+100, 
+110, 
+120, 
+130, 
+140, 
+150, 
+160, 
+170, 
+180, 
+190, 
+200, 
+210, 
+220, 
+230, 
+240, 
+250, 
+260, 
+270, 
+280, 
+290, 
+300, 
+310, 
+320, 
+330, 
+340, 
+350, 
+360, 
+370, 
+380, 
+390, 
+400, 
+410, 
+420, 
+430, 
+440, 
+450, 
+460, 
+470, 
+480, 
+490, 
+500, 
+510, 
+520, 
+530, 
+540, 
+550, 
+560, 
+570, 
+580, 
+590, 
+600, 
+610, 
+620, 
+630, 
+640, 
+650, 
+660, 
+670, 
+680, 
+690, 
+700, 
+710, 
+720, 
+730, 
+740, 
+750, 
+760, 
+770, 
+780, 
+790, 
+800, 
+810, 
+820, 
+830, 
+840, 
+850, 
+860, 
+870, 
+880, 
+890, 
+900, 
+910, 
+920, 
+930, 
+940, 
+950, 
+960, 
+970, 
+980, 
+990, 
+
+
+DISCRETE INPUT
+1, discrete input,True 
+2, discrete input,True 
+3, discrete input,False 
+4, discrete input,False 
+5, discrete input,False 
+6, discrete input,False 
+7, discrete input,False 
+8, discrete input,False 
+9, discrete input,False 
+10, discrete input,False 
+11, discrete input,False 
+12, discrete input,False 
+13, discrete input,False 
+14, discrete input,False 
+15, discrete input,False 
+16, discrete input,False 
+17, discrete input,False 
+18, discrete input,True 
+19, discrete input,False 
+20, discrete input,False 
+21, discrete input,False 
+22, discrete input,False 
+23, discrete input,False 
+24, discrete input,False 
+25, discrete input,False 
+26, discrete input,True 
+27, discrete input,False 
+28, discrete input,True 
+29, discrete input,False 
+30, discrete input,False 
+31, discrete input,False 
+32, discrete input,False 
+33, discrete input,False 
+34, discrete input,False 
+35, discrete input,False 
+36, discrete input,False 
+37, discrete input,False 
+38, discrete input,False 
+39, discrete input,False 
+40, discrete input,False 
+41, discrete input,False 
+42, discrete input,False 
+43, discrete input,False 
+44, discrete input,False 
+45, discrete input,False 
+46, discrete input,False 
+47, discrete input,False 
+48, discrete input,False 
+49, discrete input,False 
+50, discrete input,False 
+51, discrete input,False 
+52, discrete input,False 
+53, discrete input,False 
+54, discrete input,False 
+55, discrete input,False 
+56, discrete input,False 
+57, discrete input,False 
+58, discrete input,False 
+59, discrete input,False 
+60, discrete input,False 
+61, discrete input,False 
+62, discrete input,False 
+63, discrete input,False 
+64, discrete input,False 
+65, discrete input,False 
+66, discrete input,False 
+67, discrete input,False 
+68, discrete input,False 
+69, discrete input,False 
+70, discrete input,False 
+71, discrete input,False 
+72, discrete input,False 
+73, discrete input,False 
+74, discrete input,False 
+75, discrete input,False 
+76, discrete input,False 
+77, discrete input,False 
+78, discrete input,False 
+79, discrete input,False 
+80, discrete input,False 
+81, discrete input,True 
+82, discrete input,True 
+83, discrete input,True 
+84, discrete input,True 
+85, discrete input,False 
+86, discrete input,True 
+87, discrete input,True 
+88, discrete input,True 
+89, discrete input,True 
+90, discrete input,False 
+91, discrete input,False 
+92, discrete input,False 
+93, discrete input,False 
+94, discrete input,False 
+95, discrete input,False 
+96, discrete input,False 
+97, discrete input,False 
+98, discrete input,False 
+99, discrete input,False 
+100, discrete input,False 
+101, discrete input,False 
+102, discrete input,False 
+103, discrete input,False 
+104, discrete input,False 
+105, discrete input,False 
+106, discrete input,False 
+107, discrete input,False 
+108, discrete input,False 
+109, discrete input,False 
+110, discrete input,False 
+111, discrete input,False 
+112, discrete input,False 
+113, discrete input,False 
+114, discrete input,False 
+115, discrete input,False 
+116, discrete input,False 
+117, discrete input,False 
+118, discrete input,False 
+119, discrete input,False 
+120, discrete input,False 
+121, discrete input,False 
+122, discrete input,False 
+123, discrete input,False 
+124, discrete input,False 
+125, discrete input,False 
+126, discrete input,False 
+127, discrete input,False 
+128, discrete input,False 
+129, discrete input,False 
+130, discrete input,False 
+131, discrete input,False 
+132, discrete input,False 
+133, discrete input,False 
+134, discrete input,False 
+135, discrete input,False 
+136, discrete input,False 
+137, discrete input,False 
+138, discrete input,False 
+139, discrete input,False 
+140, discrete input,False 
+141, discrete input,False 
+142, discrete input,False 
+143, discrete input,False 
+144, discrete input,False 
+145, discrete input,False 
+146, discrete input,False 
+147, discrete input,False 
+148, discrete input,False 
+149, discrete input,False 
+150, discrete input,False 
+151, discrete input,False 
+152, discrete input,False 
+153, discrete input,False 
+154, discrete input,False 
+155, discrete input,False 
+156, discrete input,False 
+157, discrete input,False 
+158, discrete input,False 
+159, discrete input,False 
+160, discrete input,False 
+161, discrete input,False 
+162, discrete input,False 
+163, discrete input,False 
+164, discrete input,False 
+165, discrete input,False 
+166, discrete input,False 
+167, discrete input,False 
+168, discrete input,False 
+169, discrete input,False 
+170, discrete input,False 
+171, discrete input,False 
+172, discrete input,False 
+173, discrete input,False 
+174, discrete input,False 
+175, discrete input,False 
+176, discrete input,False 
+177, discrete input,False 
+178, discrete input,False 
+179, discrete input,False 
+180, discrete input,False 
+181, discrete input,False 
+182, discrete input,False 
+183, discrete input,False 
+184, discrete input,False 
+185, discrete input,False 
+186, discrete input,False 
+187, discrete input,False 
+188, discrete input,False 
+189, discrete input,False 
+190, discrete input,False 
+191, discrete input,False 
+192, discrete input,False 
+193, discrete input,False 
+194, discrete input,False 
+195, discrete input,False 
+196, discrete input,False 
+197, discrete input,False 
+198, discrete input,False 
+199, discrete input,False 
+200, discrete input,False 
+201, discrete input,False 
+202, discrete input,False 
+203, discrete input,False 
+204, discrete input,False 
+205, discrete input,False 
+206, discrete input,False 
+207, discrete input,False 
+208, discrete input,False 
+209, discrete input,False 
+210, discrete input,False 
+211, discrete input,False 
+212, discrete input,False 
+213, discrete input,False 
+214, discrete input,False 
+215, discrete input,False 
+216, discrete input,False 
+217, discrete input,False 
+218, discrete input,False 
+219, discrete input,False 
+220, discrete input,False 
+220, 
+230, 
+240, 
+250, 
+260, 
+270, 
+280, 
+290, 
+300, 
+310, 
+320, 
+330, 
+340, 
+350, 
+360, 
+370, 
+380, 
+390, 
+400, 
+410, 
+420, 
+430, 
+440, 
+450, 
+460, 
+470, 
+480, 
+490, 
+500, 
+510, 
+520, 
+530, 
+540, 
+550, 
+560, 
+570, 
+580, 
+590, 
+600, 
+610, 
+620, 
+630, 
+640, 
+650, 
+660, 
+670, 
+680, 
+690, 
+700, 
+710, 
+720, 
+730, 
+740, 
+750, 
+760, 
+770, 
+780, 
+790, 
+800, 
+810, 
+820, 
+830, 
+840, 
+850, 
+860, 
+870, 
+880, 
+890, 
+900, 
+910, 
+920, 
+930, 
+940, 
+950, 
+960, 
+970, 
+980, 
+990, 
+
+
+HOLDING REGISTER
+1, holding,220 
+2, holding,65336 
+3, holding,65386 
+4, holding,65436 
+5, holding,65486 
+6, holding,0 
+7, holding,50 
+8, holding,100 
+9, holding,150 
+10, holding,250 
+11, holding,240 
+12, holding,230 
+13, holding,230 
+14, holding,220 
+15, holding,200 
+16, holding,180 
+17, holding,180 
+18, holding,210 
+19, holding,180 
+20, holding,150 
+21, holding,210 
+22, holding,300 
+23, holding,280 
+24, holding,1000 
+25, holding,1000 
+26, holding,1000 
+27, holding,1000 
+28, holding,1000 
+29, holding,1500 
+30, holding,1000 
+31, holding,1500 
+32, holding,10000 
+33, holding,250 
+34, holding,50 
+35, holding,65506 
+36, holding,10 
+37, holding,500 
+38, holding,800 
+39, holding,200 
+40, holding,700 
+41, holding,1900 
+42, holding,0 
+43, holding,0 
+44, holding,700 
+45, holding,1900 
+46, holding,0 
+47, holding,0 
+48, holding,700 
+49, holding,1900 
+50, holding,0 
+51, holding,0 
+52, holding,700 
+53, holding,1900 
+54, holding,0 
+55, holding,0 
+56, holding,700 
+57, holding,1900 
+58, holding,0 
+59, holding,0 
+60, holding,0 
+61, holding,0 
+62, holding,0 
+63, holding,0 
+64, holding,0 
+65, holding,0 
+66, holding,0 
+67, holding,0 
+68, holding,0 
+69, holding,0 
+70, holding,0 
+71, holding,0 
+72, holding,0 
+73, holding,2400 
+74, holding,0 
+75, holding,0 
+76, holding,0 
+77, holding,2400 
+78, holding,0 
+79, holding,0 
+80, holding,0 
+81, holding,2400 
+82, holding,0 
+83, holding,0 
+84, holding,0 
+85, holding,2400 
+86, holding,0 
+87, holding,0 
+88, holding,0 
+89, holding,2400 
+90, holding,0 
+91, holding,0 
+92, holding,0 
+93, holding,2400 
+94, holding,0 
+95, holding,0 
+96, holding,0 
+97, holding,2400 
+98, holding,0 
+99, holding,0 
+100, holding,0 
+101, holding,0 
+102, holding,0 
+103, holding,0 
+104, holding,0 
+105, holding,0 
+106, holding,0 
+107, holding,0 
+108, holding,0 
+109, holding,0 
+110, holding,0 
+111, holding,0 
+112, holding,0 
+113, holding,0 
+114, holding,0 
+115, holding,0 
+116, holding,0 
+117, holding,0 
+118, holding,0 
+119, holding,0 
+120, holding,0 
+121, holding,0 
+122, holding,0 
+123, holding,0 
+124, holding,0 
+125, holding,0 
+126, holding,0 
+127, holding,0 
+128, holding,0 
+129, holding,0 
+130, holding,0 
+131, holding,0 
+132, holding,0 
+133, holding,0 
+134, holding,0 
+135, holding,0 
+136, holding,0 
+137, holding,0 
+138, holding,0 
+139, holding,0 
+140, holding,0 
+141, holding,0 
+142, holding,0 
+143, holding,0 
+144, holding,0 
+145, holding,0 
+146, holding,0 
+147, holding,0 
+148, holding,0 
+149, holding,0 
+150, holding,0 
+151, holding,0 
+152, holding,0 
+153, holding,0 
+154, holding,0 
+155, holding,0 
+156, holding,0 
+157, holding,0 
+158, holding,0 
+159, holding,0 
+160, holding,0 
+161, holding,0 
+162, holding,0 
+163, holding,0 
+164, holding,0 
+165, holding,0 
+166, holding,0 
+167, holding,0 
+168, holding,0 
+169, holding,0 
+170, holding,0 
+171, holding,0 
+172, holding,0 
+173, holding,0 
+174, holding,0 
+175, holding,0 
+176, holding,0 
+177, holding,0 
+178, holding,0 
+179, holding,0 
+180, holding,0 
+181, holding,0 
+182, holding,0 
+183, holding,0 
+184, holding,0 
+185, holding,0 
+186, holding,0 
+187, holding,0 
+188, holding,0 
+189, holding,0 
+190, holding,0 
+191, holding,0 
+192, holding,0 
+193, holding,0 
+194, holding,0 
+195, holding,0 
+196, holding,0 
+197, holding,0 
+198, holding,0 
+199, holding,0 
+200, holding,0 
+201, holding,0 
+202, holding,0 
+203, holding,0 
+204, holding,0 
+205, holding,0 
+206, holding,0 
+207, holding,0 
+208, holding,0 
+209, holding,0 
+210, holding,0 
+211, holding,0 
+212, holding,0 
+213, holding,0 
+214, holding,0 
+215, holding,0 
+216, holding,0 
+217, holding,0 
+218, holding,0 
+219, holding,0 
+220, holding,0 
+221, holding,0 
+222, holding,0 
+223, holding,0 
+224, holding,0 
+225, holding,0 
+226, holding,0 
+227, holding,0 
+228, holding,0 
+229, holding,0 
+230, holding,0 
+231, holding,0 
+232, holding,0 
+233, holding,0 
+234, holding,0 
+235, holding,0 
+236, holding,0 
+237, holding,0 
+238, holding,0 
+239, holding,0 
+240, holding,0 
+241, holding,0 
+242, holding,0 
+243, holding,0 
+244, holding,0 
+245, holding,0 
+246, holding,0 
+247, holding,0 
+248, holding,0 
+249, holding,0 
+250, holding,0 
+251, holding,0 
+252, holding,0 
+253, holding,0 
+254, holding,0 
+255, holding,0 
+256, holding,0 
+257, holding,0 
+258, holding,0 
+259, holding,0 
+260, holding,0 
+261, holding,0 
+262, holding,0 
+263, holding,0 
+264, holding,101 
+265, holding,101 
+266, holding,101 
+267, holding,101 
+268, holding,101 
+269, holding,101 
+270, holding,101 
+271, holding,101 
+272, holding,101 
+273, holding,101 
+274, holding,101 
+275, holding,101 
+276, holding,101 
+277, holding,101 
+278, holding,101 
+279, holding,101 
+280, holding,101 
+281, holding,101 
+282, holding,101 
+283, holding,101 
+284, holding,101 
+285, holding,101 
+286, holding,101 
+287, holding,101 
+288, holding,101 
+289, holding,101 
+290, holding,101 
+291, holding,101 
+292, holding,101 
+293, holding,101 
+294, holding,101 
+295, holding,101 
+296, holding,101 
+297, holding,101 
+298, holding,101 
+299, holding,101 
+300, holding,101 
+301, holding,101 
+302, holding,101 
+303, holding,101 
+304, holding,101 
+305, holding,101 
+306, holding,101 
+307, holding,101 
+308, holding,101 
+309, holding,101 
+310, holding,101 
+311, holding,101 
+312, holding,330 
+313, holding,1000 
+314, holding,1000 
+315, holding,3000 
+316, holding,1000 
+317, holding,3000 
+318, holding,1000 
+319, holding,1000 
+320, holding,1000 
+321, holding,1000 
+322, holding,8000 
+323, holding,80 
+324, holding,8000 
+325, holding,80 
+326, holding,32767 
+327, holding,80 
+328, holding,32767 
+329, holding,80 
+330, holding,1000 
+331, holding,3000 
+332, holding,100 
+333, holding,600 
+334, holding,100 
+335, holding,400 
+336, holding,100 
+337, holding,300 
+338, holding,100 
+339, holding,70 
+340, holding,1000 
+341, holding,1000 
+342, holding,500 
+343, holding,30 
+344, holding,60 
+345, holding,60 
+346, holding,30 
+347, holding,30 
+348, holding,30 
+349, holding,30 
+350, holding,3 
+351, holding,5 
+352, holding,5 
+353, holding,30 
+354, holding,30 
+355, holding,72 
+356, holding,5 
+357, holding,5 
+358, holding,20 
+359, holding,1 
+360, holding,5 
+361, holding,0 
+362, holding,0 
+363, holding,3 
+364, holding,0 
+365, holding,3 
+366, holding,5 
+367, holding,20 
+368, holding,3 
+369, holding,2 
+370, holding,0 
+371, holding,3 
+372, holding,3 
+373, holding,3 
+374, holding,626 
+375, holding,3 
+376, holding,550 
+377, holding,2 
+378, holding,0 
+379, holding,2 
+380, holding,1000 
+381, holding,2 
+382, holding,1000 
+383, holding,2 
+384, holding,0 
+385, holding,2 
+386, holding,2 
+387, holding,2 
+388, holding,2 
+389, holding,2 
+390, holding,2 
+391, holding,2 
+392, holding,283 
+393, holding,4 
+394, holding,4 
+395, holding,4 
+396, holding,4 
+397, holding,4 
+398, holding,4 
+399, holding,4 
+400, holding,255 
+401, holding,255 
+402, holding,255 
+403, holding,100 
+404, holding,300 
+405, holding,120 
+406, holding,47 
+407, holding,59 
+408, holding,10 
+409, holding,5 
+410, holding,26 
+411, holding,29 
+412, holding,6 
+413, holding,18 
+414, holding,0 
+415, holding,65336 
+416, holding,0 
+417, holding,100 
+418, holding,100 
+419, holding,150 
+420, holding,50 
+421, holding,2 
+422, holding,0 
+423, holding,0 
+424, holding,750 
+425, holding,500 
+426, holding,750 
+427, holding,500 
+428, holding,0 
+429, holding,0 
+430, holding,0 
+431, holding,130 
+432, holding,130 
+433, holding,130 
+434, holding,0 
+435, holding,180 
+436, holding,0 
+437, holding,2 
+438, holding,0 
+439, holding,180 
+440, holding,300 
+441, holding,0 
+442, holding,0 
+443, holding,1010 
+444, holding,5 
+445, holding,1010 
+446, holding,5 
+447, holding,11 
+448, holding,2 
+449, holding,0 
+450, holding,0 
+451, holding,2 
+452, holding,80 
+453, holding,190 
+454, holding,10 
+455, holding,10 
+456, holding,2 
+457, holding,0 
+458, holding,6 
+459, holding,5 
+460, holding,1 
+461, holding,0 
+462, holding,0 
+463, holding,0 
+464, holding,1 
+465, holding,8000 
+466, holding,10000 
+467, holding,1600 
+468, holding,130 
+469, holding,2 
+470, holding,0 
+471, holding,0 
+472, holding,0 
+473, holding,2 
+474, holding,0 
+475, holding,7 
+476, holding,1 
+477, holding,0 
+478, holding,1 
+479, holding,220 
+480, holding,180 
+481, holding,100 
+482, holding,180 
+483, holding,0 
+484, holding,7 
+485, holding,60 
+486, holding,0 
+487, holding,0 
+488, holding,180 
+489, holding,300 
+490, holding,300 
+491, holding,300 
+492, holding,300 
+493, holding,300 
+494, holding,100 
+495, holding,100 
+496, holding,100 
+497, holding,100 
+498, holding,100 
+499, holding,1000 
+500, holding,1000 
+501, holding,0 
+502, holding,100 
+503, holding,20000 
+504, holding,1500 
+505, holding,0 
+506, holding,100 
+507, holding,20000 
+508, holding,1500 
+509, holding,0 
+510, holding,850 
+511, holding,10 
+512, holding,0 
+513, holding,0 
+514, holding,120 
+515, holding,120 
+516, holding,2 
+517, holding,0 
+518, holding,0 
+519, holding,1 
+520, holding,0 
+521, holding,0 
+522, holding,480 
+523, holding,1440 
+524, holding,65506 
+525, holding,65526 
+526, holding,65526 
+527, holding,0 
+528, holding,150 
+529, holding,0 
+530, holding,200 
+530, 
+540, 
+550, 
+560, 
+570, 
+580, 
+590, 
+600, 
+610, 
+620, 
+630, 
+640, 
+650, 
+660, 
+670, 
+680, 
+690, 
+700, 
+710, 
+720, 
+730, 
+740, 
+750, 
+760, 
+770, 
+780, 
+790, 
+800, 
+810, 
+820, 
+830, 
+840, 
+850, 
+860, 
+870, 
+880, 
+890, 
+900, 
+910, 
+920, 
+930, 
+940, 
+950, 
+960, 
+970, 
+980, 
+990, 
+
+
+INPUT REGISTER
+1, input_registers,283 
+2, input_registers,0 
+3, input_registers,5 
+4, input_registers,32767 
+5, input_registers,32767 
+6, input_registers,0 
+7, input_registers,281 
+8, input_registers,220 
+9, input_registers,267 
+10, input_registers,0 
+11, input_registers,0 
+12, input_registers,0 
+13, input_registers,962 
+14, input_registers,2285 
+15, input_registers,991 
+16, input_registers,1527 
+17, input_registers,0 
+18, input_registers,0 
+19, input_registers,0 
+20, input_registers,0 
+21, input_registers,0 
+22, input_registers,0 
+23, input_registers,0 
+24, input_registers,0 
+25, input_registers,0 
+26, input_registers,281 
+27, input_registers,267 
+28, input_registers,0 
+29, input_registers,283 
+30, input_registers,5000 
+31, input_registers,962 
+32, input_registers,1891 
+33, input_registers,2285 
+34, input_registers,2 
+35, input_registers,3 
+36, input_registers,0 
+37, input_registers,1 
+38, input_registers,0 
+39, input_registers,8 
+40, input_registers,18 
+41, input_registers,9 
+42, input_registers,18 
+43, input_registers,6 
+44, input_registers,17 
+45, input_registers,19 
+46, input_registers,12 
+47, input_registers,9 
+48, input_registers,7 
+49, input_registers,14 
+50, input_registers,0 
+51, input_registers,0 
+52, input_registers,0 
+53, input_registers,0 
+54, input_registers,0 
+55, input_registers,100 
+56, input_registers,100 
+57, input_registers,64 
+58, input_registers,55 
+59, input_registers,9 
+60, input_registers,2 
+61, input_registers,3 
+62, input_registers,4 
+63, input_registers,5 
+64, input_registers,18 
+65, input_registers,9 
+66, input_registers,15 
+67, input_registers,43 
+68, input_registers,11 
+69, input_registers,26 
+70, input_registers,47 
+71, input_registers,1 
+72, input_registers,1 
+73, input_registers,1 
+74, input_registers,1 
+75, input_registers,1 
+76, input_registers,1 
+77, input_registers,1 
+78, input_registers,1 
+79, input_registers,1 
+80, input_registers,1 
+81, input_registers,1 
+82, input_registers,1 
+83, input_registers,1 
+84, input_registers,1 
+85, input_registers,1 
+86, input_registers,1 
+87, input_registers,1 
+88, input_registers,1 
+89, input_registers,1 
+90, input_registers,1 
+91, input_registers,1 
+92, input_registers,1 
+93, input_registers,1 
+94, input_registers,1 
+95, input_registers,1 
+96, input_registers,1 
+97, input_registers,1 
+98, input_registers,1 
+99, input_registers,1 
+100, input_registers,1 
+101, input_registers,1 
+102, input_registers,1 
+103, input_registers,1 
+104, input_registers,1 
+105, input_registers,1 
+106, input_registers,1 
+107, input_registers,1 
+108, input_registers,1 
+109, input_registers,1 
+110, input_registers,1 
+111, input_registers,1 
+112, input_registers,1 
+113, input_registers,1 
+114, input_registers,1 
+115, input_registers,1 
+116, input_registers,1 
+117, input_registers,1 
+118, input_registers,1 
+119, input_registers,0 
+120, input_registers,100 
+121, input_registers,100 
+122, input_registers,64 
+123, input_registers,55 
+124, input_registers,0 
+125, input_registers,0 
+126, input_registers,0 
+127, input_registers,210 
+128, input_registers,639 
+129, input_registers,548 
+130, input_registers,0 
+131, input_registers,0 
+132, input_registers,180 
+133, input_registers,0 
+134, input_registers,0 
+135, input_registers,0 
+136, input_registers,72 
+137, input_registers,1 
+138, input_registers,1 
+139, input_registers,1 
+140, input_registers,1 
+141, input_registers,1 
+142, input_registers,1 
+143, input_registers,1 
+144, input_registers,1 
+145, input_registers,1 
+146, input_registers,1 
+147, input_registers,1 
+148, input_registers,1 
+149, input_registers,1 
+150, input_registers,0 
+151, input_registers,0 
+152, input_registers,0 
+153, input_registers,1891 
+154, input_registers,1389 
+155, input_registers,0 
+156, input_registers,1 
+157, input_registers,1 
+158, input_registers,1 
+159, input_registers,1 
+160, input_registers,1 
+161, input_registers,1 
+162, input_registers,1 
+163, input_registers,1 
+164, input_registers,1 
+165, input_registers,1 
+166, input_registers,1 
+167, input_registers,1 
+168, input_registers,1 
+169, input_registers,1 
+170, input_registers,1 
+171, input_registers,1 
+172, input_registers,1 
+173, input_registers,1 
+174, input_registers,1 
+175, input_registers,1 
+176, input_registers,1 
+177, input_registers,1 
+178, input_registers,1 
+179, input_registers,1 
+180, input_registers,1 
+181, input_registers,1 
+182, input_registers,0 
+183, input_registers,0 
+184, input_registers,0 
+185, input_registers,0 
+186, input_registers,0 
+187, input_registers,0 
+188, input_registers,0 
+189, input_registers,0 
+190, input_registers,0 
+191, input_registers,0 
+192, input_registers,0 
+193, input_registers,0 
+194, input_registers,0 
+195, input_registers,0 
+196, input_registers,0 
+197, input_registers,0 
+198, input_registers,0 
+199, input_registers,0 
+200, input_registers,0 
+201, input_registers,0 
+202, input_registers,0 
+203, input_registers,0 
+204, input_registers,0 
+205, input_registers,0 
+206, input_registers,0 
+207, input_registers,0 
+208, input_registers,0 
+209, input_registers,0 
+210, input_registers,0 
+211, input_registers,0 
+212, input_registers,0 
+213, input_registers,0 
+214, input_registers,0 
+215, input_registers,0 
+216, input_registers,0 
+217, input_registers,0 
+218, input_registers,0 
+219, input_registers,0 
+220, input_registers,0 
+221, input_registers,0 
+222, input_registers,0 
+223, input_registers,0 
+224, input_registers,0 
+225, input_registers,0 
+226, input_registers,0 
+227, input_registers,0 
+228, input_registers,0 
+229, input_registers,0 
+230, input_registers,0 
+231, input_registers,0 
+232, input_registers,0 
+233, input_registers,0 
+234, input_registers,0 
+235, input_registers,0 
+236, input_registers,0 
+237, input_registers,0 
+238, input_registers,0 
+239, input_registers,0 
+240, input_registers,0 
+241, input_registers,0 
+242, input_registers,0 
+243, input_registers,0 
+244, input_registers,0 
+245, input_registers,0 
+246, input_registers,0 
+247, input_registers,0 
+248, input_registers,0 
+249, input_registers,0 
+250, input_registers,0 
+251, input_registers,0 
+252, input_registers,0 
+253, input_registers,0 
+254, input_registers,0 
+255, input_registers,0 
+256, input_registers,0 
+257, input_registers,0 
+258, input_registers,0 
+259, input_registers,0 
+260, input_registers,0 
+261, input_registers,0 
+262, input_registers,0 
+263, input_registers,0 
+264, input_registers,0 
+265, input_registers,0 
+266, input_registers,0 
+267, input_registers,0 
+268, input_registers,0 
+269, input_registers,0 
+270, input_registers,0 
+271, input_registers,0 
+272, input_registers,0 
+273, input_registers,0 
+274, input_registers,0 
+275, input_registers,0 
+276, input_registers,0 
+277, input_registers,0 
+278, input_registers,0 
+279, input_registers,0 
+280, input_registers,0 
+281, input_registers,0 
+282, input_registers,0 
+283, input_registers,0 
+284, input_registers,2 
+285, input_registers,1 
+286, input_registers,0 
+287, input_registers,0 
+288, input_registers,0 
+289, input_registers,0 
+290, input_registers,0 
+291, input_registers,0 
+292, input_registers,0 
+293, input_registers,0 
+294, input_registers,0 
+295, input_registers,0 
+296, input_registers,0 
+297, input_registers,1 
+298, input_registers,0 
+299, input_registers,0 
+300, input_registers,0 
+301, input_registers,0 
+302, input_registers,0 
+303, input_registers,1 
+304, input_registers,1 
+305, input_registers,1 
+306, input_registers,1 
+307, input_registers,1 
+308, input_registers,1 
+309, input_registers,1 
+310, input_registers,1 
+311, input_registers,1 
+312, input_registers,1 
+313, input_registers,1 
+314, input_registers,1 
+315, input_registers,1 
+316, input_registers,1 
+317, input_registers,1 
+318, input_registers,1 
+319, input_registers,1 
+320, input_registers,1 
+321, input_registers,1 
+322, input_registers,1 
+323, input_registers,1 
+324, input_registers,1 
+325, input_registers,1 
+326, input_registers,1 
+327, input_registers,1 
+328, input_registers,1 
+329, input_registers,0 
+330, input_registers,39 
+331, input_registers,101 
+332, input_registers,1 
+333, input_registers,1 
+334, input_registers,1 
+335, input_registers,1 
+336, input_registers,1 
+337, input_registers,1 
+338, input_registers,1 
+339, input_registers,1 
+340, input_registers,1 
+341, input_registers,1 
+342, input_registers,0 
+343, input_registers,0 
+344, input_registers,0 
+345, input_registers,0 
+346, input_registers,0 
+347, input_registers,0 
+348, input_registers,0 
+349, input_registers,0 
+350, input_registers,0 
+351, input_registers,0 
+352, input_registers,0 
+353, input_registers,0 
+354, input_registers,0 
+355, input_registers,0 
+356, input_registers,0 
+357, input_registers,0 
+358, input_registers,0 
+359, input_registers,0 
+360, input_registers,0 
+360, 
+370, 
+380, 
+390, 
+400, 
+410, 
+420, 
+430, 
+440, 
+450, 
+460, 
+470, 
+480, 
+490, 
+500, 
+510, 
+520, 
+530, 
+540, 
+550, 
+560, 
+570, 
+580, 
+590, 
+600, 
+610, 
+620, 
+630, 
+640, 
+650, 
+660, 
+670, 
+680, 
+690, 
+700, 
+710, 
+720, 
+730, 
+740, 
+750, 
+760, 
+770, 
+780, 
+790, 
+800, 
+810, 
+820, 
+830, 
+840, 
+850, 
+860, 
+870, 
+880, 
+890, 
+900, 
+910, 
+920, 
+930, 
+940, 
+950, 
+960, 
+970, 
+980, 
+990, 
